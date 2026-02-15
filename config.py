@@ -1,0 +1,14 @@
+BOT_TOKEN = "84****ZgY"
+CHAT_ID = 801491
+
+ACCOUNT_SID = "AC*******7373"
+AUTH_TOKEN = "7ce8************3b"
+
+FROM_NUMBER = "+1406****"
+TO_NUMBER = "+919******49"
+
+SAVE_GAP = 5
+CONF_THRESHOLD = 0.6
+
+ALERT_GAP = 15
+CALL_ENABLED = True

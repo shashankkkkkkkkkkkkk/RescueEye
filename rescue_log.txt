@@ -1,0 +1,26 @@
+with open("rescue_log.txt", "a") as f:
+    f.write(f"Survivor #{survivor_count} detected at {time.ctime()}\n")
+Survivor #1 detected at Thu Feb 12 18:55:27 2026
+Survivor #2 detected at Thu Feb 12 18:55:43 2026
+Survivor #1 detected at Thu Feb 12 19:00:58 2026
+Survivor #2 detected at Thu Feb 12 19:01:15 2026
+Survivor #3 detected at Thu Feb 12 19:01:31 2026
+Survivor #1 detected at Thu Feb 12 19:07:10 2026
+Survivor #1 detected at Thu Feb 12 19:10:18 2026
+Survivor #1 detected at Thu Feb 12 19:14:20 2026
+Survivor #2 detected at Thu Feb 12 19:14:37 2026
+Survivor #3 detected at Thu Feb 12 19:15:00 2026
+Survivor #1 detected at Thu Feb 12 19:19:58 2026
+Survivor #1 detected at Thu Feb 12 19:36:34 2026
+Survivor #1 detected at Thu Feb 12 19:51:23 2026
+Survivor #1 detected at Thu Feb 12 20:09:47 2026
+Survivor #2 detected at Thu Feb 12 20:10:02 2026
+Survivor #1 detected at Thu Feb 12 22:08:14 2026
+Survivor #1 detected at Thu Feb 12 22:15:43 2026
+Survivor #2 detected at Thu Feb 12 22:15:59 2026
+Survivor #1 detected at Fri Feb 13 09:46:24 2026
+Survivor #2 detected at Fri Feb 13 09:46:40 2026
+Survivor #1 detected at Sun Feb 15 11:23:42 2026
+Survivor #1 detected at Sun Feb 15 11:25:45 2026
+Survivor #2 detected at Sun Feb 15 11:26:03 2026
+Survivor #3 detected at Sun Feb 15 11:26:29 2026

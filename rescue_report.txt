@@ -1,0 +1,23 @@
+=== RescueEye Detection Report ===
+
+Survivor #1 detected at frame 90
+Saved Image: detections/survivor_1.jpg
+
+Survivor #2 detected at frame 243
+Saved Image: detections/survivor_2.jpg
+
+Survivor #3 detected at frame 284
+Saved Image: detections/survivor_3.jpg
+
+Survivor #4 detected at frame 323
+Saved Image: detections/survivor_4.jpg
+
+Survivor #5 detected at frame 363
+Saved Image: detections/survivor_5.jpg
+
+Survivor #6 detected at frame 403
+Saved Image: detections/survivor_6.jpg
+
+Survivor #7 detected at frame 443
+Saved Image: detections/survivor_7.jpg
+
